@@ -87,6 +87,10 @@ strong {
 }
 a {
     color: #A3A3A3;
+    text-decoration: none;
+}
+a:hover {
+    color: #fff;
 }
 .wiki {
     background-color: #515051;
@@ -101,4 +105,36 @@ a {
     color: #fff;
     justify-content: center;
     align-items: center;
+}
+
+@media(max-width:800px) {
+    .img img {
+        width: 300px;
+        height: 300px;
+    }
+    .img {
+        width: 350px;
+        padding-top: 25px;
+        border-radius: 4px;
+    }
+    .resume {
+        width: 500px;
+    }
+    .timeline {
+        font-size: 20px;
+    }
+    li {
+        width: 500px;
+    }
+}
+@media(max-width:500px) {
+    .resume {
+        width: 400px;
+    }
+    .timeline {
+        font-size:18px;
+    }
+    li {
+        width: 400px;
+    }
 }
