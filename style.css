@@ -120,18 +120,14 @@ a:hover {
         width: 350px;
         padding-top: 25px;
         border-radius: 4px;
-        margin-left: -60px
     }
     .resume {
         width: 370px;
-        margin-left: -60px;
     }
     .timeline {
         font-size: 15px;
-        margin-left: -60px;
     }
     li {
         width: 300px;
-        margin-left: -90px;
     }
 }
