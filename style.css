@@ -99,13 +99,9 @@ a:hover {
     color: #fff;
     justify-content: center;
     align-items: center;
-    width: 100%;
 }
 
 @media (min-width: 200px) and (max-width: 800px)  {
-    body {
-        max-width: 100%;
-    }
     .img img {
         width: 300px;
         height: 300px;
