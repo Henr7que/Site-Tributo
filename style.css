@@ -91,6 +91,7 @@ a:hover {
     justify-content: center;
     padding-top: 15px;
     padding-bottom: 15px;
+    max-width: 100%;
 }
 .footer {
     height: 80px;
