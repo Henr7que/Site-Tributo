@@ -89,7 +89,8 @@ a:hover {
     background-color: #515051;
     display: flex;
     justify-content: center;
-    padding: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     width: 100%;
 }
 .footer {
